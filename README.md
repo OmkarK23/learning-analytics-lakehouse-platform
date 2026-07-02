@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="images/github_banner.png" width="100%">
+</p>
+
+<p align="center">
+
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A84FF?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Spark_SQL-336791?style=for-the-badge)
+![Lakeview](https://img.shields.io/badge/Lakeview-Dashboard-6C63FF?style=for-the-badge)
+
+</p>
+
 # 🎓 Learning Analytics Lakehouse Platform
 
 > **Enterprise Data Engineering & Analytics Platform Built on Databricks Lakehouse**
