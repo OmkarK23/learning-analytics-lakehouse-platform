@@ -232,61 +232,65 @@ The platform exposes reusable business-friendly semantic views including:
 
 # 📊 Dashboards
 
+# Dashboard Showcase
+
 ## Executive Overview
 
-Provides institution-wide KPIs including:
+**Audience:** University Leadership
 
-- Student population
-- Attendance
-- LMS engagement
-- Academic risk
-- Department performance
-- Course performance
-- Priority intervention metrics
+**Purpose**
 
----
+Provides a real-time institutional overview of academic performance, student engagement, and risk metrics through executive KPIs.
 
-## Student Success & Retention
+**Highlights**
 
-Supports academic advisors through:
-
-- Behavior profile analysis
-- Student engagement analytics
-- Attendance correlation
-- Priority outreach queue
-- Academic intervention insights
-
----
-
-## Course & Department Analytics
-
-Supports department leadership through:
-
-- Course enrollment analysis
-- Department engagement
-- Academic risk comparison
-- Course performance
-- Department performance metrics
-
----
-
-# 📸 Dashboard Preview
-
-### Executive Overview
+- Executive KPIs
+- Academic Risk Distribution
+- Weekly Blackboard LMS Activity
+- Department Risk Comparison
+- Course Risk Ranking
 
 ![Executive Dashboard](screenshots/executive_overview.png)
 
 ---
 
-### Student Success & Retention
+## Student Success & Retention
 
-![Student Dashboard](screenshots/student_success.png)
+**Audience:** Academic Advisors & Student Success Teams
+
+**Purpose**
+
+Identifies students requiring intervention through behavioral analytics and engagement monitoring.
+
+**Highlights**
+
+- Student Engagement Analysis
+- Behavior Profiles
+- Attendance vs Engagement
+- Student Level Risk
+- Priority Outreach Queue
+
+![Student Success](screenshots/student_success.png)
 
 ---
 
-### Course & Department Analytics
+## Course & Department Analytics
 
-![Course Dashboard](screenshots/course_department.png)
+**Audience:** Department Chairs & Academic Leadership
+
+**Purpose**
+
+Evaluates departmental and course-level performance to support institutional planning.
+
+**Highlights**
+
+- Department Performance
+- Course Enrollment
+- Department Engagement
+- Course Risk Ranking
+- Course Performance Summary
+
+![Course Analytics](screenshots/course_department.png)
 
 ---
 
